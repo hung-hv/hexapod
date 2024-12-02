@@ -1,0 +1,18 @@
+# STM32CubeIDE build folders
+Debug/
+Release/
+
+# IDE settings
+.settings/
+.cproject
+.project
+.loadpath
+
+# Compiled binary files
+*.bin
+*.elf
+*.hex
+
+# Miscellaneous
+*.swp
+*.bak
